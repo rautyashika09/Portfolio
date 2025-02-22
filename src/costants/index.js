@@ -47,12 +47,11 @@ export const PROJECTS = [
             technologies: ["HTML5", "CSS3"] ,
         },
     ]
-export const CONTACT =[
-   {
+    export const CONTACT =
+{
         address: "Chhindwara (M.P.)",
         phoneNo: "8225970595",
         email: "rautyahika09@gmail"
-   } 
-
+   
+};
     
-]
